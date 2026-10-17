@@ -1507,3 +1507,5 @@ freewheel.tv, 548888-r-524565, RESELLER
 freewheel.tv, 548888-r-523319, RESELLER
 freewheel.tv, sg1332502, RESELLER
 insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
+vungle.com,6a719decef6845c0d819c06,DIRECT,c107d686becd2d77
+ 
